@@ -58,15 +58,17 @@ Background audio intensifies in response to room scale and player proximity to w
 ---
 
 ## Project Structure
+```
 Assets/
-Scripts/
-RoomShrink.cs
-ObjectShift.cs
-GameManager.cs
-KeypadManager.cs
-Scenes/
-Prefabs/
-Audio/
+  Scripts/
+    RoomShrink.cs
+    ObjectShift.cs
+    GameManager.cs
+    KeypadManager.cs
+  Scenes/
+  Prefabs/
+  Audio/
+```
 
 ---
 
